@@ -1,0 +1,5 @@
+streamlit
+requests
+base64
+io
+PIL
