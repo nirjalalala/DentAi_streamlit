@@ -87,7 +87,7 @@ if uploaded_file is not None:
         
         with st.spinner("Analyzing the image..."):
             try:
-                response = requests.post("http://127.0.0.1:8000/predict/", files=files, timeout=30)
+                response = requests.post("https://dentai.onrender.com/predict/", files=files, timeout=30)
                 
                 if response.status_code == 200:
                     data = response.json()
