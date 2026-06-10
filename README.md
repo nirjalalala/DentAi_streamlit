@@ -33,3 +33,13 @@ Launch the Streamlit app with the following command:
 ```sh
 streamlit run app.py
 ```
+
+### Open Live 
+
+Visit the hosted early prototype of the web app at:
+
+[DentAI](https://dentai.streamlit.app/)
+
+Or our final website at:
+
+<a href="https://dent-ai-client.vercel.app/"><img src="https://dent-ai-client.vercel.app/favicon.ico" width="300"></a>
